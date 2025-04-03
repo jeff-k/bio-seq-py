@@ -1,5 +1,5 @@
 [package]
-name = "bio_seq"
+name = "bio-seq-py"
 version = "0.1.0"
 edition = "2024"
 
